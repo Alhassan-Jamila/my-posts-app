@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Quicksand:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
 
 *{
   margin: 0;
@@ -6,12 +6,12 @@
   font-family: "Mulish", sans-serif;
 }
 body{
-  background-color: #ffdeff;
+  background-color: cornflowerblue;
 }
 h1{
   text-align: center;
   margin: 20px;
-  color: #2c1202;
+  color: black;
   text-transform: uppercase;
   text-decoration: underline;
 }
